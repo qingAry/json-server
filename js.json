@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "gold",
+      "id": 3
+    },
+    {
+      "title": "perfect",
+      "author": "杨幂",
+      "id": 4
+    },
+    {
+      "title": "perfect",
+      "author": "杨幂",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
